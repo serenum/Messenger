@@ -16,8 +16,8 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".ReceiveMessageActivity"
             android:label="@string/title_activity_recieve_message"
+            android:name=".ReceiveMessageActivity"
             android:theme="@style/AppTheme.NoActionBar">
         </activity>
     </application>
